@@ -1,0 +1,740 @@
+:: StoryTitle
+3T03 Project
+
+
+:: StoryData
+{
+  "ifid": "E12E0DEB-0384-4584-B415-8EB6DAE2ABB8",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Welcome",
+  "zoom": 1
+}
+
+
+:: 1.1 {"position":"725,375","size":"100,100"}
+
+<!-- BACKGROUND -->
+<div style="
+  position: fixed;
+  inset: 0;
+  background-image: url('https://i.imgur.com/gzodvMg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+
+
+<!-- DIALOGUE -->
+<div style="
+  position: fixed;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  text-align: left !important;
+  z-index: 20;
+">
+  <span style="color: #FF69B4;">Librarian at McMaster:</span> Thank you for signing up to help me. This time of the semester, I’m swamped with work and any help is appreciated.
+</div>
+
+
+
+<!-- LIBRARIAN IMAGE -->
+<img src="https://imgur.com/XZuw9nM.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 1000px;
+       height: auto;
+       z-index: 10;
+     ">
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.2]]
+</div>
+
+
+
+:: 1.2 {"position":"725,500","size":"100,100"}
+
+<!-- BACKGROUND -->
+<div style="
+  position: fixed;
+  inset: 0;
+  background-image: url('https://i.imgur.com/gzodvMg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+<!-- DIALOGUE -->
+<div style="
+  position: fixed;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  text-align: left !important;
+  z-index: 20;
+">
+  <span style="color: #FF69B4;">Librarian at McMaster:</span> So let’s get into it!
+</div>
+
+<!-- LIBRARIAN IMAGE -->
+<img src="https://imgur.com/sFlKrPH.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 1000px;
+       height: auto;
+       z-index: 10;
+     ">
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.3]]
+</div>
+
+
+
+:: 1.3 {"position":"725,625","size":"100,100"}
+
+<!-- BACKGROUND -->
+<div style="
+  position: fixed;
+  inset: 0;
+  background-image: url('https://i.imgur.com/gzodvMg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+<!-- DIALOGUE -->
+<div style="
+  position: fixed;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  text-align: left !important;
+  z-index: 20;
+">
+  <span style="color: #FF69B4;">Librarian at McMaster:</span> Today you’re going to speak with students who have booked sessions with us. You’re going to ask as many questions as you can to help understand the situation better.
+</div>
+
+<!-- LIBRARIAN IMAGE -->
+<img src="https://imgur.com/sFlKrPH.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 1000px;
+       height: auto;
+       z-index: 10;
+     ">
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.4]]
+</div>
+
+
+
+:: 1.4 {"position":"725,750","size":"100,100"}
+
+<!-- BACKGROUND -->
+<div style="
+  position: fixed;
+  inset: 0;
+  background-image: url('https://i.imgur.com/gzodvMg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+<!-- DIALOGUE -->
+<div style="
+  position: fixed;
+  top: 8%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  text-align: left !important;
+  z-index: 20;
+">
+  <span style="color: #FF69B4;">Librarian at McMaster:</span> Then, you’re going to help navigate what they are going through and show them how to find the right McMaster resources.
+</div>
+
+<!-- LIBRARIAN IMAGE -->
+<img src="https://imgur.com/sFlKrPH.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 1000px;
+       height: auto;
+       z-index: 10;
+     ">
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.5]]
+</div>
+
+
+
+:: 1.5 {"position":"700,950","size":"100,100"}
+
+<span style="color: #FF69B4;">PSST:</span> There’s a legend on the side if you need some help.
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.6]]
+</div>
+
+
+
+:: 1.6 {"position":"700,1075","size":"100,100"}
+
+Best of luck and if you need anything, just ask!
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.7]]
+</div>
+
+
+
+:: 1.7 {"position":"700,1200","size":"100,100"}
+
+<style>
+.heart-scene {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.heart-time {
+  opacity: 0;
+  font-size: 65px;
+  font-weight: bold;
+  color: #FF69B4;
+  animation: heartTimeFade 4s ease-in-out 1 forwards;
+}
+
+.heart-message {
+  opacity: 0;
+  font-size: 35px;
+  color: white;
+  animation: heartMessageFade 2s ease-in 4s 1 forwards;
+}
+
+.heart-next {
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+
+  opacity: 0;
+  pointer-events: none;
+  animation:
+    heartNextFade 1.5s ease-in 6s 1 forwards,
+    heartNextEnable 0s linear 7.5s forwards;
+}
+
+.heart-next tw-link,
+.heart-next tw-link:hover,
+.heart-next tw-link:active {
+  color: #4169E1 !important;
+  background: transparent !important;
+  text-decoration: none !important;
+  transition: none !important;
+}
+
+@keyframes heartTimeFade {
+  0% { opacity: 0; }
+  30% { opacity: 1; }
+  70% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes heartMessageFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes heartNextFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes heartNextEnable {
+  to { pointer-events: auto; }
+}
+</style>
+
+<div class="heart-scene">
+
+  <div class="heart-time">
+    10:00 AM
+  </div>
+
+  <div class="heart-message">
+    Your first student walks in...
+  </div>
+
+</div>
+
+<div class="heart-next">
+  [[Next->2.1]]
+</div>
+
+
+
+:: 2.1 {"position":"675,1350","size":"100,100"}
+
+<span style="color: #73AB76;">Kiran:</span> Hello! I'm Kiran. Thanks for meeting with me.
+
+
+[["Hello! I'm a volunteer! What brings you in today?"|2.21]]
+[["Are you lost?"|2.3]]
+
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: -200px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+     ">
+
+
+
+:: 2.12122222 {"position":"850,1875","size":"100,100"}
+Great choice! You validate Kiran's feelings while helping them separate their identity from their accomplishments. This reflects the chapter's concept of Being vs. Doing, which emphasizes that failure in something we do does not define who we are.
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|2.212121212]]
+</div>
+
+
+:: 2.12134434322 {"position":"325,2300","size":"100,100"}
+Great choice! You encourage Kiran to view rejection as an opportunity for learning rather than a reflection of her abilities. This demonstrates Failure Reframing, which involves reflecting on setbacks, identifying lessons, and using those insights to guide future actions.
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|wfwfwwfw]]
+</div>
+
+
+:: 2.21 {"position":"675,1500","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I booked this appointment because I really don't know what to do anymore...
+
+I recently applied for a research position that I was really excited about. I spent weeks preparing my application, but I just found out that I didn't get it.
+
+I know rejection is normal, but I can't help feeling like I wasn't good enough.
+
+[["I see this position was important to you"|2.212]]
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: -200px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+     ">
+
+
+:: 2.211112 {"position":"850,1700","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I guess, but I don't know if I'll get another opportunity.
+
+[[I understand|2.213]]
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: -200px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+     ">
+
+
+:: 2.212 {"position":"675,1650","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> Yes... it was. I thought it would help me get into graduate school. I've worked so hard these past four years, and I feel like everything was leading up to this. Now I'm worried I've ruined my chances.
+
+[["It sounds like you've put a lot of effort into this, so I can understand why you're disappointed. It must be stressful feeling like your future depends on this opportunity."|2.213]]
+
+[["I'm sure you'll find another research position! You have good grades, so I wouldn't worry too much about it."|2.211112]]
+
+[["Rejection is a normal part of life. You can't let one unsuccessful application affect you this much."|2.2221222]]
+
+
+
+
+:: 2.212121212 {"position":"700,2075","size":"100,100"}
+[["What do you think you could learn from this experience"|2.22212121]]
+[["Maybe you're not fit for the position...|2.232323223222]]
+
+
+:: 2.213 {"position":"700,1825","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I feel like I've put so much pressure on myself to succeed. 
+
+I guess I've always thought of myself as someone who's academically successful. When I don't achieve something, it feels like I've failed as a person, not just at one application.
+
+[["You're being too hard on yourself. It's just one rejection, and you've accomplished so much already. You shouldn't let it bother you."|2.2222121]]
+
+[["That sounds really difficult, especially when academics have been such a big part of your life. But not getting this position doesn't take away from everything you've accomplished or who you are as a person."|2.12122222]]
+
+
+
+
+:: 2.22212121 {"position":"525,2225","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I haven't really thought about it that way. I guess I could ask for feedback on my application. Maybe there are things I could improve for next time.
+
+[["That's a really thoughtful way to look at it! Even though the outcome wasn't what you hoped for, asking for feedback could help you understand what worked and what you might do differently next time."|2.12134434322]]
+
+[["Definitely! You should ask for feedback and make sure you fix all the mistakes in your application so you don't get rejected again."|232323.2222]]
+
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+       transform: scaleX(-1);
+     ">
+
+
+:: 2.2221222 {"position":"425,1750","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I know rejection happens. I just thought I'd be doing better by now.
+
+[[I see|2.213]]
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: -200px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+     ">
+
+
+:: 2.2222121 {"position":"500,1925","size":"100,100"}
+Although this response is meant to be reassuring, it minimizes Kiran's feelings. Acknowledging their disappointment is important before helping them move forward.
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|2.212121212]]
+</div>
+
+
+
+:: 2.232323223222 {"position":"825,2200","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> Maybe you're right... //sniffles// I'm going now...
+
+
+:: 2.3 {"position":"850,1375","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> You know what... I think I booked this appointment by accident. Goodbye. 
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: -200px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+     ">
+    
+     <div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|wefwfww22]]
+</div>
+
+
+:: 232323.2222 {"position":"900,2325","size":"100,100"}
+Although seeking feedback is helpful, this response suggests that failure can always be prevented through improvement. Failure reframing focuses on learning from setbacks rather than eliminating them entirely.
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|wfwfwwfw]]
+</div>
+
+
+:: Untitled Passage {"position":"700,250","size":"100,100"}
+
+<!-- BACKGROUND -->
+<div style="
+  position: fixed;
+  inset: 0;
+  background-image: url('https://i.imgur.com/gzodvMg.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+  pointer-events: none;
+"></div>
+
+<!-- DIALOGUE -->
+<div style="
+  position: fixed;
+  top: 8%;
+  left: 20%;
+  z-index: 20;
+">
+  <span style="color: #FF69B4;">Librarian at McMaster:</span> Hello there!
+</div>
+
+<!-- LIBRARIAN IMAGE -->
+<img src="https://imgur.com/sFlKrPH.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0;
+       width: 1000px;
+       height: auto;
+       z-index: 10;
+     ">
+
+<!-- NEXT BUTTON -->
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+  [[Next|1.1]]
+</div>
+
+
+
+:: Welcome {"position":"550,275","size":"100,100"}
+
+<div style="
+  text-align: center;
+  margin-top: 25vh;
+">
+
+  <div class="fade-welcome">
+    <h1 style="
+      font-size: 42px;
+      color: #FF69B4;
+      text-shadow: none;
+    ">
+      Welcome to the Heart groups activity station!
+    </h1>
+  </div>
+
+</div>
+
+<div class="fade-next">
+  [[Next|Untitled Passage]]
+</div>
+
+<style>
+.fade-welcome {
+  opacity: 0;
+  animation: welcomeFadeOnce 3s ease-in 1 forwards;
+}
+
+.fade-next {
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+  opacity: 0;
+  animation: nextFadeOnce 1.5s ease-in 3s 1 forwards;
+}
+
+@keyframes welcomeFadeOnce {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes nextFadeOnce {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+</style>
+
+
+
+:: done {"position":"725,3050","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> That would actually be really helpful. I think part of what made this rejection so difficult was feeling like I didn't know what to do afterward.
+
+Thank you for your help.
+
+I think, now that I've reframed my failure and recognize that this does not define me, I can readily take next steps
+
+Goodbye!
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|wefwfww22]]
+</div>
+
+
+:: eegaeg {"position":"725,2500","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> Thank you. I think talking about it has helped me realize that I don't have to let one setback stop me from trying again.
+
+//Kiran pauses//
+
+I still feel a little overwhelmed, though. I want to move forward, but I'm not really sure where to start.
+
+[["Actually, McMaster has several resources that might help! Would you like to explore some of them together?"|wfwfwfwf2222]]
+
+[["I have to go now... bye|wefwfww22]]
+
+<!-- CHARACTER IMAGE -->
+<img src="https://i.imgur.com/BBkC4Fk.png"
+     style="
+       position: fixed;
+       bottom: 0;
+       right: 0px;
+       width: 900px;
+       height: auto;
+       z-index: 10;
+       transform: scaleX(-1);
+     ">
+
+
+:: llol {"position":"825,2900","size":"100,100"}
+You: McMaster's Student Wellness Centre offers counselling services for students dealing with things like stress, anxiety, and self-confidence. They have short-term counselling options that can help you develop strategies for managing difficult emotions.
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|done]]
+</div>
+
+
+:: lol {"position":"475,2825","size":"100,100"}
+<span style="color: #73AB76;">Kiran:</span> I've heard of it, but I thought it was mostly for academic help. What kind of support could they offer?
+
+[["They offer career advising and job-search support, including help with resumes, cover letters, and preparing for future opportunities. You can also explore career appointments through OSCARplus."|done]]
+
+
+:: wefwfww22 {"position":"1175,2950","size":"100,100"}
+gg
+
+
+:: wfwfwfwf2222 {"position":"700,2700","size":"100,100"}
+You: Have you heard of the...
+
+[["Student Success Centre?"|lol]]
+
+[["Student Wellness Centre?"|llol]]
+
+
+
+
+:: wfwfwwfw {"position":"475,2475","size":"100,100"}
+You: Kiran, thank you for sharing all of this with me. It sounds like this rejection has been really difficult, but I'm glad you're starting to see that it doesn't define you.
+
+<div style="
+  position: fixed;
+  bottom: 40px;
+  left: 40px;
+  z-index: 1000;
+">
+[[Next|eegaeg]]
+</div>
